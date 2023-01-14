@@ -8,7 +8,8 @@
 
 # Compress-Move-Extract
 
-Here is a PowerShell script that compresses, moves, and extracts a folder of files from one location on the network to another location on the network.
+This PowerShell Script automates the process of compressesing, moving, and extracting a folder of files from one location on the network to another
+location on the network.
 
 1.)  Compresses a folder and it's contents into a .zip
 
