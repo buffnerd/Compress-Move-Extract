@@ -1,3 +1,11 @@
+
+██████╗░██╗░░░██╗███████╗███████╗  ███╗░░██╗███████╗██████╗░██████╗░
+██╔══██╗██║░░░██║██╔════╝██╔════╝  ████╗░██║██╔════╝██╔══██╗██╔══██╗
+██████╦╝██║░░░██║█████╗░░█████╗░░  ██╔██╗██║█████╗░░██████╔╝██║░░██║
+██╔══██╗██║░░░██║██╔══╝░░██╔══╝░░  ██║╚████║██╔══╝░░██╔══██╗██║░░██║
+██████╦╝╚██████╔╝██║░░░░░██║░░░░░  ██║░╚███║███████╗██║░░██║██████╔╝
+╚═════╝░░╚═════╝░╚═╝░░░░░╚═╝░░░░░  ╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝╚═════╝░
+
 # Compress-Move-Extract
 
 Here is a PowerShell script that compresses, moves, and extracts a folder of files from one location on the network to another location on the network.
@@ -8,4 +16,4 @@ Here is a PowerShell script that compresses, moves, and extracts a folder of fil
 
 3.)  Ensures the destination server has a folder with the appropriate name
 
-3.)  Extracts the compressed files in the new location on the network
+4.)  Extracts the compressed files in the new location on the network
